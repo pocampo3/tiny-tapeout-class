@@ -1,10 +1,10 @@
 # Tiny Tapeout project information (Wokwi project)
 project:
-  wokwi_id:     0       # Set this to the ID of your Wokwi project (the number from the project's URL)
-  title:        ""      # Project title
-  author:       ""      # Your name
+  wokwi_id:     428698903483560961       # Set this to the ID of your Wokwi project (the number from the project's URL)
+  title:        "tiny tapeout thing"      # Project title
+  author:       "Paul Ocampo"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  ""      # One line description of what your project does
+  description:  "Tiny tapeout test"      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
@@ -22,8 +22,8 @@ pinout:
   ui[3]: ""
   ui[4]: ""
   ui[5]: ""
-  ui[6]: ""
-  ui[7]: ""
+  ui[6]: "NAND input1"
+  ui[7]: "NAND input2"
 
   # Outputs
   uo[0]: ""
